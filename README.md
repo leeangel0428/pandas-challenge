@@ -15,7 +15,4 @@ TechnoSaviour. (2022, January 29). Running Jupyter notebook in VS Code, set up, 
 
 Ravikiran, A.S. (2023, May 18). Python Tutorial: float() in Python. Simplilearn. Retrieved from https://www.simplilearn.com/tutorials/python-tutorial/float-in-python#:~:text=Python's%20float()%20function%20will,numbers%20into%20floating%2Dpoint%20numbers.
 
-### Grade:
-![Screenshot 2023-10-15 215628](https://github.com/leeangel0428/Excel_analysis/assets/137225965/d3b06ac1-8a77-4a99-be6e-ff05d720dd0d)
 
-![Screenshot 2023-10-15 215636](https://github.com/leeangel0428/Excel_analysis/assets/137225965/202ca838-0ff4-4925-8c12-b67b4e57de83)
